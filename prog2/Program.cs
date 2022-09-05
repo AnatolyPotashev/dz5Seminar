@@ -16,5 +16,5 @@ Console.WriteLine(str);
 foreach (int item in array)
 {
     if (num == item) Console.WriteLine($"Да! {num}");
-    else Console.WriteLine("Нет числа");
+    else Console.WriteLine("Нет числа"); 
 }
