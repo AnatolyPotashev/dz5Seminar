@@ -1,6 +1,7 @@
 ﻿//  Задайте массив. 
 // Напишите программу, которая определяет, 
 // присутствует ли заданное число в массиве.
+
 Console.WriteLine("Enter number. Search:");
 int num = int.Parse(Console.ReadLine());
 int[] array = new int [10];

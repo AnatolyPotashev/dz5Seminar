@@ -1,0 +1,15 @@
+C:\Users\upman\OneDrive\Рабочий стол\Seminar5\prog3\obj\Debug\net6.0\prog3.csproj.AssemblyReference.cache
+C:\Users\upman\OneDrive\Рабочий стол\Seminar5\prog3\obj\Debug\net6.0\prog3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\upman\OneDrive\Рабочий стол\Seminar5\prog3\obj\Debug\net6.0\prog3.AssemblyInfoInputs.cache
+C:\Users\upman\OneDrive\Рабочий стол\Seminar5\prog3\obj\Debug\net6.0\prog3.AssemblyInfo.cs
+C:\Users\upman\OneDrive\Рабочий стол\Seminar5\prog3\obj\Debug\net6.0\prog3.csproj.CoreCompileInputs.cache
+C:\Users\upman\OneDrive\Рабочий стол\Seminar5\prog3\bin\Debug\net6.0\prog3.exe
+C:\Users\upman\OneDrive\Рабочий стол\Seminar5\prog3\bin\Debug\net6.0\prog3.deps.json
+C:\Users\upman\OneDrive\Рабочий стол\Seminar5\prog3\bin\Debug\net6.0\prog3.runtimeconfig.json
+C:\Users\upman\OneDrive\Рабочий стол\Seminar5\prog3\bin\Debug\net6.0\prog3.dll
+C:\Users\upman\OneDrive\Рабочий стол\Seminar5\prog3\bin\Debug\net6.0\prog3.pdb
+C:\Users\upman\OneDrive\Рабочий стол\Seminar5\prog3\obj\Debug\net6.0\prog3.dll
+C:\Users\upman\OneDrive\Рабочий стол\Seminar5\prog3\obj\Debug\net6.0\refint\prog3.dll
+C:\Users\upman\OneDrive\Рабочий стол\Seminar5\prog3\obj\Debug\net6.0\prog3.pdb
+C:\Users\upman\OneDrive\Рабочий стол\Seminar5\prog3\obj\Debug\net6.0\prog3.genruntimeconfig.cache
+C:\Users\upman\OneDrive\Рабочий стол\Seminar5\prog3\obj\Debug\net6.0\ref\prog3.dll
