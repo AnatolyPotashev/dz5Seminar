@@ -1,6 +1,8 @@
 ﻿// Задайте одномерный массив, заполненный случайными числами. 
 // Найдите сумму элементов, стоящих на нечётных позициях.
 
+// int Create(string str)
+// {
 int[] array = new int[10];
 for (int i = 0; i < 10; i++)
 {
@@ -8,7 +10,10 @@ for (int i = 0; i < 10; i++)
 }
 var str = string.Join(", ", array);
 Console.WriteLine(str);
+// }
 
+// int Print(int res)
+// {
 int res = 0;
 foreach (int item in array)
 {
@@ -16,3 +21,6 @@ foreach (int item in array)
 }
 
 Console.WriteLine(res);
+// }
+// Create();
+// Print();
